@@ -36,7 +36,7 @@
 
 ### IAM Role & EC2 Status:
 ![2054e589-8001-48c4-873d-847f42c61b88](https://github.com/user-attachments/assets/246be054-371c-46f6-863b-1b369cf10447)
-![9160a9bc-9467-49cb-9d1f-d45a24478bb9](https://github.com/user-attachments/assets/b7404ada-6c21-4686-a119-d16c8502a707)
+![e6d96d28-aebb-4930-8ab1-2dda9664b35d](https://github.com/user-attachments/assets/63792632-e854-4d3f-b112-8b73c42b7759)
 
 
 
