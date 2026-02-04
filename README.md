@@ -2,6 +2,7 @@
 ​# AWS Scalable Web Infrastructure Project
 
 ​## Task 1: Networking - VPC Setup
+
 **Description:** I built a custom Virtual Private Cloud (VPC) to provide a secure and isolated network environment for the cloud resources
 * **VPC Configuration:** CIDR block 10.0.0.0/16
 * **Subnets:** Created public and private subnets across different Availability Zones for high availability
